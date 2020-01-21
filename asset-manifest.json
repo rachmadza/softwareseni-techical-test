@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/softwareseni-techical-test/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/softwareseni-techical-test/static/js/main.cf35db4f.chunk.js",
+    "main.js.map": "/softwareseni-techical-test/static/js/main.cf35db4f.chunk.js.map",
+    "runtime-main.js": "/softwareseni-techical-test/static/js/runtime-main.4482e1f0.js",
+    "runtime-main.js.map": "/softwareseni-techical-test/static/js/runtime-main.4482e1f0.js.map",
+    "static/js/2.7c46948f.chunk.js": "/softwareseni-techical-test/static/js/2.7c46948f.chunk.js",
+    "static/js/2.7c46948f.chunk.js.map": "/softwareseni-techical-test/static/js/2.7c46948f.chunk.js.map",
+    "index.html": "/softwareseni-techical-test/index.html",
+    "precache-manifest.c11a1ea85e979bfa2169ad8104819c11.js": "/softwareseni-techical-test/precache-manifest.c11a1ea85e979bfa2169ad8104819c11.js",
+    "service-worker.js": "/softwareseni-techical-test/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/softwareseni-techical-test/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7c46948f.chunk.js.LICENSE": "/softwareseni-techical-test/static/js/2.7c46948f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4482e1f0.js",
+    "static/js/2.7c46948f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cf35db4f.chunk.js"
+  ]
+}
